@@ -5,5 +5,8 @@ public class Role{
 		System.out.print("hello word7777!");
 		System.out.print("hello word7777!");
 		System.out.print("hello word7777!");
+		
+		System.out.print("hello word7777!");
+		System.out.print("hello word7777!");
 	}
 }
